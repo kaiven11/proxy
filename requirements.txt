@@ -26,6 +26,6 @@ redis==2.10.6
 requests==2.18.4
 urllib3==1.22
 utils==0.9.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 yarg==0.1.9
 yarl==1.1.1
